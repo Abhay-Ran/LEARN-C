@@ -2,11 +2,7 @@
 
 int main()
 {
-   int x = 4;
-   int y = 3;
-   x += y;
-    
-    printf("%d \n ", x);
-    
-    return 0;
-} 
+     printf("%d",8^8);
+     
+     return 0;
+}
